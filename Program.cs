@@ -23,10 +23,10 @@ Console.WriteLine("What time did you wake up?");
 string myTime = Console.ReadLine();
 
 Console.WriteLine(myName + " woke up today at " + myTime);
-Console.WriteLine("If you would like to continue playing press any key or "no" if you want to stop");
+Console.WriteLine("If you would like to continue playing press any key or 'no' if you want to stop");
 
 if(noPlay == "no"){
-    playagain again = false;
+    playagain = false;
 }else{
     playagain = true;
 }
