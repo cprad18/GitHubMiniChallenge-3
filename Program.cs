@@ -5,7 +5,7 @@
 //We will ask what time the user woke up
 // We will print out user name and what time they woke up
 //Make sure you print the results in one line
-//Peer Review by: 
+//Peer Review by: Andrea Burr 
 
 Console.Clear();
 
